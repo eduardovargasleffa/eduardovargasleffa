@@ -8,7 +8,7 @@ Always learning, always growing 💡
 ### 🚀 About Me
 
 - 👨‍💻 Developer focused on quality, performance, and clean code practices.
-- 🌱 Currently improving my English skills on Duolingo and exploring new technologies.
+- 🌱 Currently improving my English and Italian skills on Duolingo and exploring new technologies.
 - 🎯 Interested in **frontend**, **backend**, and **automation for productivity**.
 - 💬 I enjoy sharing knowledge and contributing to the developer community.
 - 🧠 Constantly seeking new challenges and opportunities to grow.
